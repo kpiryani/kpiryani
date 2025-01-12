@@ -21,7 +21,7 @@ Libraries: <br />
 
 - Research Assistant with [NCSU AI Assisted Learning Lab](https://research.csc.ncsu.edu/aial/home/) <br />
 - Engagement Manager with [Consult Your Community](https://www.cycncstate.org/)
-- HackPack @ NCSU
+- Perplexity AI Campus Strategist Program
 
 
 
