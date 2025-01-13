@@ -23,6 +23,8 @@ Libraries: <br />
 - Engagement Manager with [Consult Your Community](https://www.cycncstate.org/)
 - Perplexity AI Campus Strategist Program
 
+![](https://komarev.com/ghpvc/?username=kpiryani) 
+
 
 
 
