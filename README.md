@@ -1,7 +1,7 @@
 # Hi there! Thanks for checking out my Github!
 
 ## About Me
-🐺 Junior @ North Carolina State University (Anticipated: December 2025) <br />
+🐺 Senior @ North Carolina State University (Anticipated: May 2026) <br />
 🖥️ B.S. Computer Science, Minor in Cognitive Science <br />
 🧠 Academic Interests: Machine Learning, Computational Neuroscience, Human-Computer Interaction <br />
 🎿 Hobbies: Soccer, Music, Cooking, Skiing <br />
