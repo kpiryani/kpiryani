@@ -1,7 +1,7 @@
 # Hi there! Thanks for checking out my Github!
 
 ## About Me
-🐺 Senior @ North Carolina State University (Anticipated: May 2026) <br />
+🐺 Senior @ North Carolina State University (Graduating May 2026) <br />
 🖥️ B.S. Computer Science, Minor in Cognitive Science <br />
 🧠 Academic Interests: Machine Learning, Computational Neuroscience, Human-Computer Interaction <br />
 🎿 Hobbies: Soccer, Music, Cooking, Skiing <br />
@@ -21,7 +21,6 @@ Libraries: <br />
 
 - Research Assistant with [NCSU AI Assisted Learning Lab](https://research.csc.ncsu.edu/aial/home/) <br />
 - Engagement Manager with [Consult Your Community](https://www.cycncstate.org/)
-- Perplexity AI Campus Strategist Program
 
 ![](https://komarev.com/ghpvc/?username=kpiryani) 
 
